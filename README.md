@@ -16,7 +16,7 @@ A minimal browser exercise that fetches a remote API response and writes it into
 
 ## Getting started
 
-Requires a browser and a local HTTP server. Python 3 provides one without installing application packages.
+Requires Git, a browser and a local HTTP server. Python 3 provides one without installing application packages.
 
 ```bash
 git clone https://github.com/SamOBrienOlinger/API-CI-.git
